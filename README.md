@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was completed as part of **Data Technician Bootcamp — Week 6: Python Fundamentals**. The week focused on building core programming logic in Python through a series of guided exercises and mini-projects, run in Google Colab notebooks. The work progressed from basic syntax and user interaction through to small self-contained programs that combine multiple concepts, culminating in an interactive **ATM simulator**.
+This project was completed as part of **Data Technician Bootcamp — Week 6: Python Fundamentals**. The week focused on building core programming logic in Python through a series of guided exercises and mini projects, run in Google Colab notebooks. The work progressed from basic syntax and user interaction through to small self contained programs that combine multiple concepts, culminating in an interactive **ATM simulator**.
 
 
 ## Tools & Environment
@@ -16,12 +16,11 @@ This project was completed as part of **Data Technician Bootcamp — Week 6: Pyt
 
 ### Variables & Data Types
 - Declaring and using variables to store user input, calculation results, and program state
-- Working with different data types (strings, integers, floats) and converting between them with **type casting** (`int()`, `float()`, `str()`)  for example, converting user-entered temperatures, ages, and monetary amounts into the correct numeric type for calculations
+- Working with different data types (strings, integers, floats) and converting between them with **type casting** (`int()`, `float()`, `str()`)  for example, converting user entered temperatures, ages, and monetary amounts into the correct numeric type for calculations
 
-### `print()` and `input()`
+### `print()`
 - Using `print()` to display formatted output, results, and menus to the user
-- Using `input()` to capture user-provided data (names, numbers, menu selections) and feed it into program logic
-- Combining the two to build interactive, conversational command line programs  e.g. taking a user's name and age and returning a personalised greeting
+- to build interactive, conversational command line programs  e.g. taking a user's name and age and returning a personalised greeting
 
 ### `if` Statements & Conditional Logic
 - Using `if` / `elif` / `else` to branch program behaviour based on conditions
