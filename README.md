@@ -36,7 +36,7 @@ This project was completed as part of **Data Technician Bootcamp — Week 6: Pyt
 - Combining variables, input/output, type casting, conditionals, and loops into complete working programs, including:
   - **FizzBuzz** looping 1 to 100, using modulo division and `if`/`elif`/`else` to print "fizz", "buzz", "fizzbuzz", or the number itself
   - **ATM Simulator**  a menu-driven program using functions for each operation (check balance, deposit, withdraw, exit), `while` loops to keep the menu running, and `if` statements to validate withdrawal amounts and PIN entry
-  - **Calculators & converters**  sum of two numbers, Celsius-to-Fahrenheit conversion, rectangle area, compound interest, and days-to-years/weeks/days conversion
+  - **Calculators & converters**  sum of two numbers, Celsius to Fahrenheit conversion, rectangle area, compound interest, and days-to-years/weeks/days conversion
   - **Text & number analysis** word counting in a sentence, digit-sum calculation, palindrome checking, prime number checking, and leap year checking
 
 
