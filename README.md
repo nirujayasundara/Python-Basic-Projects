@@ -4,6 +4,14 @@
 
 This project was completed as part of **Data Technician Bootcamp — Week 6: Python Fundamentals**. The week focused on building core programming logic in Python through a series of guided exercises and mini-projects, run in Google Colab notebooks. The work progressed from basic syntax and user interaction through to small self-contained programs that combine multiple concepts, culminating in an interactive **ATM simulator**.
 
+
+## Tools & Environment
+
+- **Language:** Python 3
+- **Environment:** Google Colab (Jupyter notebooks)
+- **Practice platforms:** HackerRank, CodeChef (additional coding challenge practice)
+
+
 ## Skills Demonstrated
 
 ### Variables & Data Types
@@ -32,11 +40,6 @@ This project was completed as part of **Data Technician Bootcamp — Week 6: Pyt
   - **Calculators & converters**  sum of two numbers, Celsius-to-Fahrenheit conversion, rectangle area, compound interest, and days-to-years/weeks/days conversion
   - **Text & number analysis** word counting in a sentence, digit-sum calculation, palindrome checking, prime number checking, and leap year checking
 
-## Tools & Environment
-
-- **Language:** Python 3
-- **Environment:** Google Colab (Jupyter notebooks)
-- **Practice platforms:** HackerRank, CodeChef (additional coding challenge practice)
 
 ## Key Takeaway
 
